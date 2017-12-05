@@ -11,8 +11,13 @@ NEVER DO FORCE UPDATE! IT CRASHES OTHERWISE!
 
 # Shoutouts to
 Simpleflips
+
 DogeCore aka NotCake
+
 Rirush aka Racc__oon
+
 senrab
+
 Rob--
+
 Zysen
