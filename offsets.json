@@ -1,0 +1,40 @@
+{
+    "signatures": {
+        "dwLocalPlayer" : 13413664,
+        "dwEntityList" : 13469740,
+
+        "dwDuck" : 13605684,
+        "dwLeft" : 13601440,
+        "dwRight" : 13601452,
+
+        "dwMoveLeft" : 13601524,
+        "dwMoveRight" : 13601536,
+        "dwMoveForward" : 13609636,
+        "dwMoveBackwards" : 13609624,
+
+        "dwJump" : 13605624,
+        "dwAttack" : 13605636,
+        "dwAttack2" : 13605648,
+
+        "dwGetMaxClients" : 4783124,
+        "dwIsInGame" : 4782736,
+        "dwIsConnected" : 6051937,
+        "dwGlowObjectManager" : 12991220,
+        "dwViewAngles" : 4801764
+    },
+    "netvars" : {
+        "m_iTeamNum" : 176,
+        "m_bDormant": 410,
+        "m_lifeState" : 165,
+        "m_vecViewOffset" : 252,
+        "m_fFlags" : 876,
+        "m_iHealth" : 168,
+        "m_vecVelocity" : 272,
+        "m_vecOrigin" : 852,
+        "m_bGlowEnabled" : 3517,
+        "m_iCrosshairID" : 6012,
+        "m_fOnTarget" : 4136,
+        "m_iCloaked" : 6584,
+        "m_dwBoneMatrix" : 1456
+    }
+}

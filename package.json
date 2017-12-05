@@ -1,0 +1,20 @@
+{
+  "name": "dankstormbase2k18",
+  "version": "1.0.0",
+  "description": "DankStorm Base 2k18 for TF2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cheat"
+  ],
+  "author": "MrSteyk",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "asynckeystate": "0.0.2",
+    "memoryjs": "^2.0.3",
+    "robotjs": "^0.4.7",
+    "sleep": "^5.1.1"
+  }
+}
